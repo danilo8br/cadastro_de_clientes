@@ -5,7 +5,9 @@ Project made with the QTDesigner tool for graphical interface, using the Python 
 
 - I wanted to do some interface project for a long time, so I did it just for fun and practice :]
 
-## First screen
+## First Screen
+
+- On this screen, if the person is not registered, they have to click to register. If it is, you just need to login.
 
 ![Parte 1](https://user-images.githubusercontent.com/51414398/92425792-a70ba700-f15e-11ea-96a3-a0ca5423d57f.PNG)
 
